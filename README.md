@@ -115,6 +115,7 @@ DIM_Date[Week of Year]
 = SELECTEDVALUE( DIM_Date[Week of Year] )
 )
 )
+<br />
 VAR PreviousWeek =
 CALCULATE(
 [Total Steps],
@@ -124,6 +125,7 @@ DIM_Date[Week of Year]
 = SELECTEDVALUE( DIM_Date[Week of Year] ) – 1
 )
 )
+<br />
 RETURN
 DIVIDE(
 ( CurrentWeek – PreviousWeek ),
