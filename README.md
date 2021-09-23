@@ -18,7 +18,7 @@ Exercise data were recorded every single date and the focus was on amount of ste
 
 Following steps were done in Power BI to transform this table to be ready for analysis purposes:
 
-    Promoted row so that the data so that the first row was used as headers.
+    Promoted row so that the first row was used as headers.
     Removed unnecessary columns.
     Changed column to have the correct type (date, numbers etc.) for later use in calculations.
     
@@ -31,7 +31,7 @@ DIM_Activity describes two different types of activities: Walking and running. O
 
  Following steps were done in Power BI to transform this table to be ready for analysis purposes:
 
-    Promoted row so that the data so that the first row was used.
+    Promoted row so that the first row was used as headers.
     Renamed necessary columns to give better business friendly names.
     Capitalized each for in the description column for improved data quality.
     
@@ -41,7 +41,7 @@ DIM_Activity describes two different types of activities: Walking and running. O
 
 The DIM_Date dimension is based on a simple table with dates, where date was used to derive several new fields which would be used in the exercise analysis dashboard:
 
-    Promoted row so that the data so that the first row was used.
+    Promoted row so that the first row was used as headers.
     Changed the column to DateType
     Inserted several new columns based on the date.
     
