@@ -138,9 +138,12 @@ PreviousWeek
 The finish report consists of two different dashboards. One is more of a basic version, while the second version contains more advanced visualizations. To enable these visualizations the calculation language DAX (Data Analysis Expressions) were used.
 
 ### Basic Analysis
+<br />
 
 ![GitHub Fact_Exercise](/images/Basic_Calculation.PNG)
 
 ### Advance Calculation
+<br />
+<br />
 
 ![GitHub Fact_Exercise](/images/Advance_Calculation.PNG)
