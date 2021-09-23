@@ -1,4 +1,4 @@
-Data Analyst Portfolio Project – Personal Exercise Analysis
+**Data Analyst Portfolio Project – Personal Exercise Analysis**
 
 ## Business Request & User Stories
 
