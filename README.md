@@ -68,8 +68,8 @@ SUM( FACT_Activity[Steps] )
 **Steps (Running)** – This is a calculation to isolate the Total Steps measure by filtering it by the “Running Activity”:
 
 CALCULATE(
-[Total Steps],
-DIM_Activity[ActivityName] = “Running”
+    [Total Steps],
+    DIM_Activity[ActivityName] = “Running”
 )
 
 **Steps (Walking)** – This is a calculation to isolate the Total Steps measure by filtering it by the “Walking Activity”:
@@ -89,8 +89,8 @@ DIVIDE(
 **Walking % of Total** – Here we are using two measures from before to find the % of steps that were done by walking:
 
 DIVIDE(
-[Steps (Walking)],
-[Total Steps]
+    [Steps (Walking)],
+    [Total Steps]
 )
 
 **Total Steps (Cumulative)** – Here we are re-using the Total Steps measure and using different functions to cumulatively calculate the total steps:
