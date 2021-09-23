@@ -145,7 +145,7 @@ The finish report consists of two different dashboards. One is more of a basic v
 <br />
 <br />
 
-### Advance Calculation
+### Advance Analysis
 <br />
 
 ![GitHub Fact_Exercise](/images/Advance_Calculation.PNG)
