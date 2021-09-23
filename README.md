@@ -6,7 +6,7 @@ The business request for this project was created by the user himself. By decidi
 
 |#|As a (role)|I want (request / demand)|So that I (user value)|Acceptance Criteria|
 |---|---|---|---|---|
-|1|Exerice entusiast|I want to track my steps|To ensure I get enough activity|A Power BI dashboard which lets me get an easy and quick overview of my exercise data.|
+|1|Exercise entusiast|I want to track my steps|To ensure I get enough activity|A Power BI dashboard which lets me get an easy and quick overview of my exercise data.|
 
 ## Data Collection & Table Structures
 The necessary data were collected and structured in Excel files. The exercise data was organized as a fact table and date & activity were organized as dimension tables for filtering data.
